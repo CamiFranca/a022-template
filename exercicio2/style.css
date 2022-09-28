@@ -1,0 +1,19 @@
+header{
+    position: sticky;
+    top: 0;
+    background-color: blueviolet;
+    border: 5px;
+
+}
+main{
+    background-color:rgb(143, 76, 143) ;
+    border:10px;
+    height:800px;
+
+    
+}
+
+footer{
+    background-color: rgb(218, 49, 77);
+
+}
